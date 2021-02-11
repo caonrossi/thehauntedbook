@@ -9,4 +9,4 @@ In seguito, con l’uso della funzione noise, l’immagine di ogni spettrogramma
 Then, every album track has been associated to with an ancient object belonging to Freud's collection, creating a parallelism between the ghost images of Ghosts I-IV and those inherent in these objects.  
 The noise function has also been applied to the photographs in the collection, treated in black and white, which are thus brought back to a changing and uncertain state, once again phantasmic.
 
- "Ghosts I – IV" ghosts, now made visible, accompany the ghosts of past narratives, hidden in Freud's collection of ancient statuettes.
+ "Ghosts I – IV" ghosts, now made visible, accompany the ghosts of past narratives, hidden in Freud's collection of ancient statues.
