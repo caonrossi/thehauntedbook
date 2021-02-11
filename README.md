@@ -1,8 +1,12 @@
 # thehauntedbook
 Elementi d'informatica per il design – Elaborato esame Riboli 2019/2020
 
-L’album Ghosts I-IV dei Nine Inch Nails contiene 36 tracce strumentali, ogni traccia è priva di un titolo e viene identificata solamente da un numero, non ha un’identità definita, ma lascia una traccia della propria entità, proprio come un fantasma.
+Nine Inch Nails album Ghosts I-IV album contains 36 instrumental untitled tracks identified only as a number. It does not have a defined identity, it only leaves its trace of its existence, like a ghost.
 
-Attraverso l’elaborazione di uno spettrogramma, generato da ogni traccia dell’album Ghosts I-IV, il progetto vuole immortalare le immagini fantasmiche intrappolate in ogni brano, testimoniandone concretamente l’esistenza. In seguito, con l’uso della funzione noise, l’immagine di ogni spettrogramma è stata deformata, generandone delle mutazioni che rispecchiano la natura variabile e sfuggevole del fantasma. Ogni traccia dell’album è stata poi associata a un oggetto antico appartenente alla collezione di Freud, creando un parallelismo tra le immagini fantasmiche di Ghosts I-IV e quelle insite in questi oggetti. La funzione noise è stata applicata anche alle fotografie della collezione, trattate in bianco e nero, che vengono riportate così a uno stato mutevole e incerto, di nuovo fantasmico.
+Through a spectrogram of every track of the album, the project aims to imprint the ghost images trapped inside every song, concretely witnessing its existence.
+Using "noise" function, every spectrogram picture is being deformed, creating mutations 
+In seguito, con l’uso della funzione noise, l’immagine di ogni spettrogramma è stata deformata, generating mutations that reflect the variable and fleeting nature of the ghost. 
+Then, every album track has been associated to with an ancient object belonging to Freud's collection, creating a parallelism between the ghost images of Ghosts I-IV and those inherent in these objects.  
+The noise function has also been applied to the photographs in the collection, treated in black and white, which are thus brought back to a changing and uncertain state, once again phantasmic.
 
-I fantasmi dell’album Ghosts I–IV, ora resi visibili, accompagnano i fantasmi delle narrazioni passate, celati nella collezione di statuette antiche di Freud.
+ "Ghosts I – IV" ghosts, now made visible, accompany the ghosts of past narratives, hidden in Freud's collection of ancient statuettes.
